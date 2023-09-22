@@ -4,6 +4,9 @@ title:솔의눈
 //notes: tags:pvp
 dimwishlist:item=1948035256&perks=1840239774,1087426260,957782887,47981717
 
+// Omniscient Eye (pvp)
+dimwishlist:item=3454326177&perks=3250034553,3142289711,3513791699,957782887
+
 // The Long walk (pvp)
 //notes: tags:pvp
 dimwishlist:item=3326850591&perks=1840239774,1087426260,2621346526,957782887
