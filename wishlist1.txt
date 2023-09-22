@@ -1,4 +1,11 @@
 title:솔의눈
+
+// Luna Regolith III (pvp)
+//notes: tags:pvp
+dimwishlist:item=1948035256&perks=1840239774,1087426260,957782887,47981717
+
+
+
 // Eyasluna (pvp)
 //notes: tags:pvp
 dimwishlist:item=235827225&perks=1926090090,1561002382,1428297954,588594999
